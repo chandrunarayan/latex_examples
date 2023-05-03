@@ -1,4 +1,4 @@
-# LaTeX Examples
+# LaTeX Examples Galore!
 
 ## Equations
 
