@@ -272,6 +272,9 @@ $$
  $$
 
 
+## MORE EXAMPLES!!
+[more examples](lots_of_latex.md)
+
 # Perceptron Machine Learning(ML) Project
 ## Part 1 - Introduction to the Perceptron
 
